@@ -1,0 +1,15 @@
+---
+layout: post
+title: A complete guide to probability theory
+date: 07-06-2023 16:27:43 :z
+tags: [jekyll, coding]
+description:
+summary:
+comments: false
+author: Yong Huang
+mathjax: false
+render_with_liquid: true
+---
+
+This is sample content post.
+Edit this to a new post content!
