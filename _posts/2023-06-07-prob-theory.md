@@ -7,7 +7,7 @@ description:
 summary:
 comments: false
 author: Yong Huang
-mathjax: false
+mathjax: true
 render_with_liquid: true
 ---
 
