@@ -1,6 +1,6 @@
 ---
 title : "stats"
-permalink : "/tags/stats/"
+permalink : "/notes/tags/stats/"
 tag : stats
 layout : tag
 ---
