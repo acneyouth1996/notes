@@ -13,6 +13,44 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/2023/06/07/14-30-17",
+            "title": "new post",
+            "summary": null,
+            "content_text": "This is sample content post.Edit this to a new post content!",
+            "content_html": "<p>This is sample content post.Edit this to a new post content!</p>",
+            "url": "http://localhost:4000/2023/06/07/14-30-17",
+            
+            
+            
+            "tags": ["jekyll","coding"],
+            
+            "date_published": "2023-06-07T14:30:17-07:00",
+            "date_modified": "2023-06-07T14:30:17-07:00",
+            
+                "author": "Yong Huang"
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2023/06/07/new-post",
+            "title": "new post",
+            "summary": null,
+            "content_text": "This is sample content post.Edit this to a new post content!",
+            "content_html": "<p>This is sample content post.Edit this to a new post content!</p>",
+            "url": "http://localhost:4000/2023/06/07/new-post",
+            
+            
+            
+            "tags": ["jekyll","coding"],
+            
+            "date_published": "2023-06-07T14:26:59-07:00",
+            "date_modified": "2023-06-07T14:26:59-07:00",
+            
+                "author": "Yong Huang"
+            
+        },
+    
+        {
             "id": "http://localhost:4000/2019/08/31/difference-between-font-formats",
             "title": "Difference between font formats",
             "summary": "What is the difference between various font formats?",

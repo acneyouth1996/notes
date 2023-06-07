@@ -4,13 +4,33 @@
  <title>Sidey</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-06-07T14:08:35-07:00</updated>
+ <updated>2023-06-07T14:30:46-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>new post</title>
+   <link href="http://localhost:4000/2023/06/07/14-30-17"/>
+   <updated>2023-06-07T14:30:17-07:00</updated>
+   <id>http://localhost:4000/2023/06/07/14:30:17</id>
+   <content type="html">&lt;p&gt;This is sample content post.
+Edit this to a new post content!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>new post</title>
+   <link href="http://localhost:4000/2023/06/07/new-post"/>
+   <updated>2023-06-07T14:26:59-07:00</updated>
+   <id>http://localhost:4000/2023/06/07/new-post</id>
+   <content type="html">&lt;p&gt;This is sample content post.
+Edit this to a new post content!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Difference between font formats</title>
