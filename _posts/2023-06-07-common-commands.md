@@ -1,8 +1,8 @@
 ---
 layout: post
-title: new postt
+title: Common commands
 date: 07-06-2023 14:35:26 :z
-tags: [stats]
+tags: [tools]
 description:
 summary:
 comments: false
@@ -11,5 +11,6 @@ mathjax: false
 render_with_liquid: true
 ---
 
-This is sample content post.
-Edit this to a new post content!
+Here are some commanly used commands for unix-based terminals. 
+
+
