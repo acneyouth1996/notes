@@ -2,7 +2,7 @@
 layout: post
 title: A complete guide to probability theory
 date: 07-06-2023 16:27:43 :z
-tags: [jekyll, coding]
+tags: [stats]
 description:
 summary:
 comments: false
