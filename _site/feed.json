@@ -13,38 +13,19 @@
 "items": [
     
         {
-            "id": "http://localhost:4000/2023/06/07/14-30-17",
-            "title": "new post",
+            "id": "http://localhost:4000/2023/06/07/new-postt",
+            "title": "new postt",
             "summary": null,
             "content_text": "This is sample content post.Edit this to a new post content!",
             "content_html": "<p>This is sample content post.Edit this to a new post content!</p>",
-            "url": "http://localhost:4000/2023/06/07/14-30-17",
+            "url": "http://localhost:4000/2023/06/07/new-postt",
             
             
             
             "tags": ["jekyll","coding"],
             
-            "date_published": "2023-06-07T14:30:17-07:00",
-            "date_modified": "2023-06-07T14:30:17-07:00",
-            
-                "author": "Yong Huang"
-            
-        },
-    
-        {
-            "id": "http://localhost:4000/2023/06/07/new-post",
-            "title": "new post",
-            "summary": null,
-            "content_text": "This is sample content post.Edit this to a new post content!",
-            "content_html": "<p>This is sample content post.Edit this to a new post content!</p>",
-            "url": "http://localhost:4000/2023/06/07/new-post",
-            
-            
-            
-            "tags": ["jekyll","coding"],
-            
-            "date_published": "2023-06-07T14:26:59-07:00",
-            "date_modified": "2023-06-07T14:26:59-07:00",
+            "date_published": "2023-06-07T00:00:00-07:00",
+            "date_modified": "2023-06-07T00:00:00-07:00",
             
                 "author": "Yong Huang"
             

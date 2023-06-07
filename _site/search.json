@@ -2,23 +2,12 @@
   
     {
 
-      "title"    : "new post",
+      "title"    : "new postt",
       "description" : "",
-      "url"      : "/2023/06/07/14-30-17",
+      "url"      : "/2023/06/07/new-postt",
       "category" : "",
       "tags"     : "jekyll, coding",
-      "date"     : "2023-06-07 14:30:17 -0700"
-
-    } ,
-  
-    {
-
-      "title"    : "new post",
-      "description" : "",
-      "url"      : "/2023/06/07/new-post",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "date"     : "2023-06-07 14:26:59 -0700"
+      "date"     : "2023-06-07 00:00:00 -0700"
 
     } ,
   
