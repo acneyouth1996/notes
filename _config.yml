@@ -1,6 +1,6 @@
-site: Sidey
-url: #yoururl
-title: Sidey
+site: Notes
+url: https://yonglhuang.com/
+title: Notes
 description: Simple and minimalistic jekyll blogging theme.
 twitter:
   username: #yourusername
@@ -8,7 +8,7 @@ twitter:
   creator: #yourusername
 author:
   twitter: #yourusername
-  name: #yourusername
+  name: Yong Huang
   avatar:
   email: #youremail
   url: #yoururl
