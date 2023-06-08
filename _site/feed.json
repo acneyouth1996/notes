@@ -20,8 +20,8 @@
             "id": "http://localhost:4000/notes/2023/06/07/latex-md",
             "title": "How to write in latex and Markdown",
             "summary": null,
-            "content_text": "This is sample content post.Edit this to a new post content!",
-            "content_html": "<p>This is sample content post.Edit this to a new post content!</p>",
+            "content_text": "Latex and markdown are great tools for scienfic writing. In particular, they are super helpful in writing math formulas, foramting tables, figures and citations. Here are some tips to help you get started.",
+            "content_html": "<p>Latex and markdown are great tools for scienfic writing. In particular, they are super helpful in writing math formulas, foramting tables, figures and citations. Here are some tips to help you get started.</p>",
             "url": "http://localhost:4000/notes/2023/06/07/latex-md",
             
             
