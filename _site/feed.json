@@ -59,7 +59,7 @@
             "title": "How to win money in gambling?",
             "summary": null,
             "content_text": "The short answer is you can’t.",
-            "content_html": "<p>The short answer is you can’t.</p>",
+            "content_html": "<p>The short answer is you <strong>can’t</strong>.</p>",
             "url": "http://localhost:4000/notes/2023/06/07/win-gamble",
             
             
