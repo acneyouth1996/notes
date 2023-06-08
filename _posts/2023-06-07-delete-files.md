@@ -21,7 +21,7 @@ This is a tutorial on using the command line to delete files in your computer, i
 ## what will happen when you use **rm** to delete large amount of files
 
 I had this problem lately, I had over 27 million small files, each less than 100KB in one single directory by mistake. 
-and when I want to delete them all, the **rm** command does not work properly, it takes way to much time to finish, so what's wrong about it? the problem is that rm command is invoked for each and every file in the list. For example, if there are 50 files in the folder which are bigger than 7M, then 50 rm commands are invoked for deleting each of them. This will take a much longer time.
+and when I want to delete them all, the **rm** command does not work properly, it takes way too much time to finish, so what's wrong about it? the problem is that rm command is invoked for each and every file in the list. For example, if there are 50 files in the folder which are bigger than 7M, then 50 rm commands are invoked for deleting each of them. This will take a much longer time.
 
 So are there any other method to solve this?
 
