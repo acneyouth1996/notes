@@ -15,7 +15,7 @@ The short answer is you **can't**.
 
 Here is a nice post that explains why.[^fn1]
 
-[^fn1]: https://sites.pitt.edu/~jdnorton/teaching/paradox/chapters/probability_from_independence/probability_from_independence.html
+[^fn1]: Paradoxes from Probability. (n.d.). https://sites.pitt.edu/~jdnorton/teaching/paradox/chapters/probability_from_independence/probability_from_independence.html
 
 
 
