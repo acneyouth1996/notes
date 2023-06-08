@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to win money in gambling
+title: How to win money in gambling?
 date: 07-06-2023 20:56:41 :z
 tags: [stats]
 description:
