@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to cite references properly for your paper and homework?
+title: How to cite references properly in your paper or homework?
 date: 07-06-2023 21:12:17 :z
 tags: [tools]
 description:
