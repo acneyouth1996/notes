@@ -6,7 +6,7 @@ title: About
 **“Real smart begins when you quit quoting other people.”**
 ― Chuck Palahniuk, Pygmy
 
-Yeah I just quote someone.
+Yeah I just quoted someone.
 
 This is a website where I post my notes on scientific stuff for my own reference. I would be delighted if you find this website useful.
 If you have any questions or you find anything incorrect, please don't hesitate to reach out to me. 
