@@ -2,11 +2,22 @@
   
     {
 
-      "title"    : "new postt",
+      "title"    : "A complete guide to probability theory",
       "description" : "",
-      "url"      : "/2023/06/07/new-postt",
+      "url"      : "/notes/2023/06/07/prob-theory",
       "category" : "",
-      "tags"     : "jekyll, coding",
+      "tags"     : "stats",
+      "date"     : "2023-06-07 16:27:43 -0700"
+
+    } ,
+  
+    {
+
+      "title"    : "Commonly used linux/MacOS commands",
+      "description" : "",
+      "url"      : "/notes/2023/06/07/common-commands",
+      "category" : "",
+      "tags"     : "tools",
       "date"     : "2023-06-07 14:35:26 -0700"
 
     } 

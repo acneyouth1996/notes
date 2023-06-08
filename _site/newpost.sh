@@ -25,7 +25,7 @@ echo "---"                               > $DIR/$FILE
 echo "layout: post"                     >> $DIR/$FILE
 echo "title: $TITLE"                    >> $DIR/$FILE
 echo "date: $(date +'%d-%m-%Y %T %:z')" >> $DIR/$FILE
-echo "tags: [jekyll, coding]"           >> $DIR/$FILE
+echo "tags: [stats, tools]"           >> $DIR/$FILE
 echo "description:"                     >> $DIR/$FILE
 echo "summary:"                         >> $DIR/$FILE
 echo "comments: false"                  >> $DIR/$FILE

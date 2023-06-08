@@ -1,28 +1,51 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sidey",
-    "home_page_url": "http://localhost:4000/",
-    "feed_url": "http://localhost:4000/feed.json",
+    "title": "Notes",
+    "home_page_url": "http://localhost:4000/notes/",
+    "feed_url": "http://localhost:4000/notes/feed.json",
     "description": "Simple and minimalistic jekyll blogging theme.",
-    "icon": "http://localhost:4000/apple-touch-icon.png",
-    "favicon": "http://localhost:4000/favicon.ico",
+    "icon": "http://localhost:4000/notes/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/notes/favicon.ico",
     "expired": false,
     
-    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    "author":  {
+        "name": "Yong Huang",
+        "url": null,
+        "avatar": null
+    },
     
 "items": [
     
         {
-            "id": "http://localhost:4000/2023/06/07/new-postt",
-            "title": "new postt",
+            "id": "http://localhost:4000/notes/2023/06/07/prob-theory",
+            "title": "A complete guide to probability theory",
             "summary": null,
             "content_text": "This is sample content post.Edit this to a new post content!",
             "content_html": "<p>This is sample content post.Edit this to a new post content!</p>",
-            "url": "http://localhost:4000/2023/06/07/new-postt",
+            "url": "http://localhost:4000/notes/2023/06/07/prob-theory",
             
             
             
-            "tags": ["jekyll","coding"],
+            
+            
+            "date_published": "2023-06-07T16:27:43-07:00",
+            "date_modified": "2023-06-07T16:27:43-07:00",
+            
+                "author": "Yong Huang"
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/notes/2023/06/07/common-commands",
+            "title": "Commonly used linux/MacOS commands",
+            "summary": null,
+            "content_text": "Here are some commanly used commands for unix-based system terminals.",
+            "content_html": "<p>Here are some commanly used commands for unix-based system terminals.</p>",
+            "url": "http://localhost:4000/notes/2023/06/07/common-commands",
+            
+            
+            
+            
             
             "date_published": "2023-06-07T14:35:26-07:00",
             "date_modified": "2023-06-07T14:35:26-07:00",

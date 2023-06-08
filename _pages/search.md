@@ -31,14 +31,14 @@ title: Search
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/search.js" type="text/javascript"></script>
+<script src="/notes/search.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script type="text/javascript">
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '/search.json',
+  json: '/notes/search.json',
   searchResultTemplate: '<li><a href="{url}" title="{description}">{title}</a></li>',
   noResultsText: 'No results found',
   limit: 10,
