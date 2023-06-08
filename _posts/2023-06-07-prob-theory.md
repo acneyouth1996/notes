@@ -15,10 +15,13 @@ This is a brief introduction/cheatsheet to probability theory.
 
 
 ## Basics
-### $\sigma$ -algebra and measure theory
+### $$\sigma$$-algebra and measure theory
 You probably don't need to know this.
 test mathjax $$\sigma$$
-more test $$ a = b $$
+more test displayed equation 
+$$\begin{equation} \label{eq1}
+a = b
+\end{equation}$$
 ### Rules of probability
 ### Independence
 ### Random variables
