@@ -17,6 +17,25 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/notes/2023/06/07/citationo",
+            "title": "How to cite references properly for your paper and homework?",
+            "summary": null,
+            "content_text": "This is sample content post.Edit this to a new post content!",
+            "content_html": "<p>This is sample content post.Edit this to a new post content!</p>",
+            "url": "http://localhost:4000/notes/2023/06/07/citationo",
+            
+            
+            
+            
+            
+            "date_published": "2023-06-07T21:12:17-07:00",
+            "date_modified": "2023-06-07T21:12:17-07:00",
+            
+                "author": "Yong Huang"
+            
+        },
+    
+        {
             "id": "http://localhost:4000/notes/2023/06/07/delete-files",
             "title": "How to delete files correctly?",
             "summary": null,
