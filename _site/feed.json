@@ -17,6 +17,25 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/notes/2023/06/07/simpson-paradox",
+            "title": "Causal inference - simpson paradox",
+            "summary": null,
+            "content_text": "This is sample content post.Edit this to a new post content!",
+            "content_html": "<p>This is sample content post.Edit this to a new post content!</p>",
+            "url": "http://localhost:4000/notes/2023/06/07/simpson-paradox",
+            
+            
+            
+            "tags": ["stats","tools"],
+            
+            "date_published": "2023-06-07T20:32:57-07:00",
+            "date_modified": "2023-06-07T20:32:57-07:00",
+            
+                "author": "Yong Huang"
+            
+        },
+    
+        {
             "id": "http://localhost:4000/notes/2023/06/07/latex-md",
             "title": "How to write in latex and Markdown",
             "summary": null,

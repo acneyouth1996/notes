@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Causal inference - simpson paradox",
+      "description" : "",
+      "url"      : "/notes/2023/06/07/simpson-paradox",
+      "category" : "",
+      "tags"     : "stats, tools",
+      "date"     : "2023-06-07 20:32:57 -0700"
+
+    } ,
+  
+    {
+
       "title"    : "How to write in latex and Markdown",
       "description" : "",
       "url"      : "/notes/2023/06/07/latex-md",
