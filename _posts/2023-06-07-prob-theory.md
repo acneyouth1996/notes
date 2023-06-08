@@ -19,7 +19,7 @@ This is a brief introduction/cheatsheet to probability theory.
 You probably don't need to know this.
 test mathjax $$\sigma$$
 more test displayed equation 
-$$\begin{equation}
+\$$\begin{equation}
 x^2=9
 \end{equation}$$
 ### Rules of probability
