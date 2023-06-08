@@ -20,8 +20,8 @@
             "id": "http://localhost:4000/notes/2023/06/07/latex-md",
             "title": "How to write in latex and Markdown",
             "summary": null,
-            "content_text": "Latex and markdown are great tools for scienfic writing. In particular, they are super helpful in writing math formulas, foramting tables, figures and citations. Here are some tips to help you get started.",
-            "content_html": "<p>Latex and markdown are great tools for scienfic writing. In particular, they are super helpful in writing math formulas, foramting tables, figures and citations. Here are some tips to help you get started.</p>",
+            "content_text": "What is Latex and markdown?Latex and markdown are great tools for scienfic writing. In particular, they are super helpful in writing math formulas, foramting tables, figures and citations. Here are some tips to help you get started.Latex basicsEquationsFiguresTablesProper Citations",
+            "content_html": "<h3 id=\"what-is-latex-and-markdown\">What is Latex and markdown?</h3><p>Latex and markdown are great tools for scienfic writing. In particular, they are super helpful in writing math formulas, foramting tables, figures and citations. Here are some tips to help you get started.</p><h3 id=\"latex-basics\">Latex basics</h3><h4 id=\"equations\">Equations</h4><h4 id=\"figures\">Figures</h4><h4 id=\"tables\">Tables</h4><h4 id=\"proper-citations\">Proper Citations</h4>",
             "url": "http://localhost:4000/notes/2023/06/07/latex-md",
             
             
