@@ -17,7 +17,7 @@ This is a brief introduction/cheatsheet to probability theory.
 ## Basics
 ### $\sigma$ -algebra and measure theory
 You probably don't need to know this.
-test mathjax $\sigma$
+test mathjax $$\sigma$$
 ### Rules of probability
 ### Independence
 ### Random variables
