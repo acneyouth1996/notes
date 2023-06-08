@@ -58,8 +58,8 @@
             "id": "http://localhost:4000/notes/2023/06/07/win-gamble",
             "title": "How to win money in gambling?",
             "summary": null,
-            "content_text": "The short answer is you can’t.",
-            "content_html": "<p>The short answer is you <strong>can’t</strong>.</p>",
+            "content_text": "The short answer is you can’t.Here is a nice post that explains why.1            https://sites.pitt.edu/~jdnorton/teaching/paradox/chapters/probability_from_independence/probability_from_independence.html &#8617;      ",
+            "content_html": "<p>The short answer is you <strong>can’t</strong>.</p><p>Here is a nice post that explains why.<sup id=\"fnref:fn1\" role=\"doc-noteref\"><a href=\"#fn:fn1\" class=\"footnote\" rel=\"footnote\">1</a></sup></p><div class=\"footnotes\" role=\"doc-endnotes\">  <ol>    <li id=\"fn:fn1\" role=\"doc-endnote\">      <p>https://sites.pitt.edu/~jdnorton/teaching/paradox/chapters/probability_from_independence/probability_from_independence.html <a href=\"#fnref:fn1\" class=\"reversefootnote\" role=\"doc-backlink\">&#8617;</a></p>    </li>  </ol></div>",
             "url": "http://localhost:4000/notes/2023/06/07/win-gamble",
             
             
