@@ -11,7 +11,7 @@ mathjax: false
 render_with_liquid: true
 ---
 
-This is an old post that I wrote a few years ago, and I think I stole much of from someone else on the Internet, if you happen to find this post, please reach out to me so I can delete it or credit you properly.
+This is an old post that I wrote a few years ago, and I think I stole much of it from someone else on the Internet, if you happen to find this post, please reach out to me so I can delete it or credit you properly.
 
 
 ## Overview
