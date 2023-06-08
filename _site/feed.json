@@ -17,6 +17,25 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/notes/2023/06/07/latex-md",
+            "title": "How to write in latex and Markdown",
+            "summary": null,
+            "content_text": "This is sample content post.Edit this to a new post content!",
+            "content_html": "<p>This is sample content post.Edit this to a new post content!</p>",
+            "url": "http://localhost:4000/notes/2023/06/07/latex-md",
+            
+            
+            
+            
+            
+            "date_published": "2023-06-07T20:11:13-07:00",
+            "date_modified": "2023-06-07T20:11:13-07:00",
+            
+                "author": "Yong Huang"
+            
+        },
+    
+        {
             "id": "http://localhost:4000/notes/2023/06/07/prob-theory",
             "title": "A complete guide to probability theory",
             "summary": null,
@@ -39,8 +58,8 @@
             "id": "http://localhost:4000/notes/2023/06/07/common-commands",
             "title": "Commonly used linux/MacOS commands",
             "summary": null,
-            "content_text": "Here are some commanly used commands for unix-based system terminals.",
-            "content_html": "<p>Here are some commanly used commands for unix-based system terminals.</p>",
+            "content_text": "Here are some commanly used commands for unix-based system terminals.The basics",
+            "content_html": "<p>Here are some commanly used commands for unix-based system terminals.</p><h3 id=\"the-basics\">The basics</h3>",
             "url": "http://localhost:4000/notes/2023/06/07/common-commands",
             
             

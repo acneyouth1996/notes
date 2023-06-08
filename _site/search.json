@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "How to write in latex and Markdown",
+      "description" : "",
+      "url"      : "/notes/2023/06/07/latex-md",
+      "category" : "",
+      "tags"     : "tools",
+      "date"     : "2023-06-07 20:11:13 -0700"
+
+    } ,
+  
+    {
+
       "title"    : "A complete guide to probability theory",
       "description" : "",
       "url"      : "/notes/2023/06/07/prob-theory",

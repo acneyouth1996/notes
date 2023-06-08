@@ -14,3 +14,6 @@ render_with_liquid: true
 Here are some commanly used commands for unix-based system terminals. 
 
 
+### The basics
+
+
