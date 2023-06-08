@@ -11,11 +11,11 @@ mathjax: true
 render_with_liquid: true
 ---
 
-This is a brief introduction to probability theory.
+This is a brief introduction/cheatsheet to probability theory.
 
 
 ### Basics
-#### $\sigma$-algebra and measure theory
+#### $\sigma$ -algebra and measure theory
 You probably don't need to know this.
 #### Rules of probability
 #### independence
