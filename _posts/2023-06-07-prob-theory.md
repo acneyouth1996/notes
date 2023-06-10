@@ -40,13 +40,13 @@ Given a sample space $$\mathcal{S}$$ and an associated sigma algebra $$\mathcal{
 ordered list test
 
 
-1. item1
-2. item2
-3. item3
-    1. a
-    2. b
-    3. c
-4. item4
+1.  item1
+2.  item2
+3.  item3
+    1.  a
+    2.  b
+    3.  c
+4.  item4
 
 more blabka
 
