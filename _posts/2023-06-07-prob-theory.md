@@ -17,9 +17,9 @@ This is a brief introduction/cheatsheet to probability theory. Most of the conte
 ## Basics
 I assume you have some basic idea of set theory such as what is intersection and what is union.
 ### $$\sigma$$-algebra and measure theory
-You probably don't need to know this. But in case you need it, here is the definition of $$\sigma-algebra$$. 
+You probably don't need to know this. But in case you need it, here is the definition of $$\sigma$$-algebra. 
 
-A collection of subsets $$$\S$ is called ** sigma algebra**, denoted by $$\mathcal{B}$$, if it satisfies the follwoing three conditions:
+A collection of subsets $$\S$$ is called ** sigma algebra**, denoted by $$\mathcal{B}$$, if it satisfies the follwoing three conditions:
 1. $$\emptyset \in \mathcal{B}$$
 
 ### Rules of probability
