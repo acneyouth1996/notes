@@ -22,9 +22,9 @@ You probably don't need to know this. But in case you need it, here is the defin
 A collection of subsets $$\mathcal{S}$$ is called **sigma algebra**, denoted by $$\mathcal{B}$$, if it satisfies the follwoing three conditions:
 
 
-1. $$\emptyset \in \mathcal{B}$$ (the empty set is an element of $$\mathcal{B}$$)
-2. If $$\mathcal{A} \in \mathcal{B}$$, then $$\mathcal{A}^{c} \in \mathcal{B}$$
-3. If $$\mathcal{A}_{1}, \mathcal{A}_{2},... \in \mathcal{B}$$, then $$\cup_{i=1}^{\infty} \mathcal{A}_{i} \in \mathcal{B}$$ 
+1.   $$\emptyset \in \mathcal{B}$$ (the empty set is an element of $$\mathcal{B}$$)
+2.   If $$\mathcal{A} \in \mathcal{B}$$, then $$\mathcal{A}^{c} \in \mathcal{B}$$
+3.   If $$\mathcal{A}_{1}, \mathcal{A}_{2},... \in \mathcal{B}$$, then $$\cup_{i=1}^{\infty} \mathcal{A}_{i} \in \mathcal{B}$$ 
 
 
 ### 1.2 Rules of probability
@@ -33,33 +33,22 @@ The definition of probability function:
 
 Given a sample space $$\mathcal{S}$$ and an associated sigma algebra $$\mathcal{B}$$, a probability function satisfies:
 
-1. $$\mathcal{P}(\mathcal{A})  \geq 0$$ for all $$\mathcal{A} \in \mathcal{B}$$.
-2. $$\mathcal{P}(\mathcal{S}) = 1$$.
-3. blabla
+1.   $$\mathcal{P}(\mathcal{A})  \geq 0$$ for all $$\mathcal{A} \in \mathcal{B}$$.
+2.   $$\mathcal{P}(\mathcal{S}) = 1$$.
+3.   blabla
+
 
 ordered list test
 
+1. 1st item
+2. 2nd item
+    1. 1st sub-item of 2nd item
+    2. 2nd sub-item of 2nd item
+3. 3rd item
+    1. 1st sub-item of 3rd item
+    2. 2nd sub-item of 3rd item
 
-1. Do something.
-
-2. Do something else.
-
-    1. If the reverse-Pi separation gauge is set to `OFF` you can follow
-       the following procedure.
-
-        1. Use the flux capacitor on Mondays, Tuesdays and Thursdays, but
-           only if you have not done so already.
-
-        2. Do not use the flux capacitor if it's raining, because the
-            universe will implode.
-
-    2 If the reverse-Pi separation gauge is set to `ON` then you
-       should follow Procedure 42.
-
-3. Go back to doing things.
-
-more blabka
-
+blablabla 
 
 
 
