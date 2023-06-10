@@ -11,17 +11,16 @@ mathjax: true
 render_with_liquid: true
 ---
 
-This is a brief introduction/cheatsheet to probability theory.
+This is a brief introduction/cheatsheet to probability theory. Most of the content is from the book "Statistical Inference" [^fn1]
 
 
 ## Basics
+I assume you have some basic idea of set theory such as what is intersection and what is union.
 ### $$\sigma$$-algebra and measure theory
-You probably don't need to know this.
-test mathjax $$\sigma$$
-more test inline equation 
-\$$
-    1 = 2
-$$
+You probably don't need to know this. But in case you need it, here is the definition of $$\sigma-algebra$$. 
+
+A collection of subsets $$$\S$ is called ** sigma algebra**, denoted by $$\mathcal{B}$$, if it satisfies the follwoing three conditions:
+1. $$\emptyset \in \mathcal{B}$$
 
 ### Rules of probability
 ### Independence
@@ -33,3 +32,5 @@ $$
 ## Joint, marginal, and conditional distributions
 ## Convergence in probability
 You probably don't need to know too much details about this.
+
+[^fn1]: Casella, G., & Berger, R. L. (2021). Statistical inference. Cengage Learning.
