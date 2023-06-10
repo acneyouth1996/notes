@@ -13,7 +13,7 @@ author:
   email: yongh7@uci.edu
   url: #yoururl
 permalink: pretty
-markdown: kramdown
+#markdown: kramdown
 
 baseurl: "/notes"
 
