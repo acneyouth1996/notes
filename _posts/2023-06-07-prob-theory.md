@@ -25,6 +25,11 @@ A collection of subsets $$\mathcal{S}$$ is called **sigma algebra**, denoted by 
 3. If $$\mathcal{A}_{1}, \mathcal{A}_{2},... \in \mathcal{B}$$, then $$\cup_{i=1}^{\infty} \mathcal{A}_{i} \in \mathcal{B}$$ 
 
 ### Rules of probability
+1. The definition of probability function:
+Given a sample space $$\mathcal{S}$$ and an associated sigma algebra $$\mathcal{B}$$, a probability function satisfies:
+    1. $$\mathcal{P}(\mathcal{A})  \geq 0$$ for all $$\mathcal{A} \in mathcal{B}$$
+    2. 
+
 ### Independence
 ### Random variables
 ### Distribution functions
