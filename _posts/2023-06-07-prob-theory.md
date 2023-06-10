@@ -30,13 +30,10 @@ A collection of subsets $$\mathcal{S}$$ is called **sigma algebra**, denoted by 
 
 
 - The definition of probability function:
-
 Given a sample space $$\mathcal{S}$$ and an associated sigma algebra $$\mathcal{B}$$, a probability function satisfies:
-
     - $$\mathcal{P}(\mathcal{A})  \geq 0$$ for all $$\mathcal{A} \in \mathcal{B}$$.
     - $$\mathcal{P}(\mathcal{S}) = 1$$.
     - blabla
-
 - blablabla
 
 ### Independence
