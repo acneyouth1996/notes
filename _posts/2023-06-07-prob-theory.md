@@ -21,19 +21,22 @@ You probably don't need to know this. But in case you need it, here is the defin
 
 A collection of subsets $$\mathcal{S}$$ is called **sigma algebra**, denoted by $$\mathcal{B}$$, if it satisfies the follwoing three conditions:
 
-
+\[  
 1. $$\emptyset \in \mathcal{B}$$ (the empty set is an element of $$\mathcal{B}$$)
 2. If $$\mathcal{A} \in \mathcal{B}$$, then $$\mathcal{A}^{c} \in \mathcal{B}$$
 3. If $$\mathcal{A}_{1}, \mathcal{A}_{2},... \in \mathcal{B}$$, then $$\cup_{i=1}^{\infty} \mathcal{A}_{i} \in \mathcal{B}$$ 
+\]
 
 ### 1.2 Rules of probability
 
 The definition of probability function:
 
 Given a sample space $$\mathcal{S}$$ and an associated sigma algebra $$\mathcal{B}$$, a probability function satisfies:
+'''
 1. $$\mathcal{P}(\mathcal{A})  \geq 0$$ for all $$\mathcal{A} \in \mathcal{B}$$.
 2. $$\mathcal{P}(\mathcal{S}) = 1$$.
 3. blabla
+'''
 
 
 
