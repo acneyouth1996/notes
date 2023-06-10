@@ -21,7 +21,7 @@ You probably don't need to know this. But in case you need it, here is the defin
 
 A collection of subsets $$\S$$ is called **sigma algebra**, denoted by $$\mathcal{B}$$, if it satisfies the follwoing three conditions:
 1. $$\emptyset \in \mathcal{B}$$ (the empty set is an element of $$\mathcal{B}$$)
-2. If $$\A in \mathcal{B}$$, then $$\A^{c} \in \mathcal{B}$$
+2. If $$\A \in \mathcal{B}$$, then $$\A^{c} \in \mathcal{B}$$
 3. If $$\A_{1}, \A_{2},... \in \mathcal{B}$$, then $$\cup_{i=1}^{\infty} \A_{i} \in \mathcal{B}$$ 
 
 ### Rules of probability
