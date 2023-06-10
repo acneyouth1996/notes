@@ -15,7 +15,7 @@ This is a brief introduction/cheatsheet to probability theory. Most of the conte
 
 
 ## Basics
-I assume you have some basic idea of set theory such as what is intersection and what is union.
+I assume you have some basic ideas of set theory such as what is intersection and what is union.
 ### $$\sigma$$-algebra and measure theory
 You probably don't need to know this. But in case you need it, here is the definition of $$\sigma$$-algebra. 
 
@@ -28,7 +28,7 @@ A collection of subsets $$\mathcal{S}$$ is called **sigma algebra**, denoted by 
 1. The definition of probability function:
 Given a sample space $$\mathcal{S}$$ and an associated sigma algebra $$\mathcal{B}$$, a probability function satisfies:
     1. $$\mathcal{P}(\mathcal{A})  \geq 0$$ for all $$\mathcal{A} \in mathcal{B}$$
-    2. 
+    2. $$\mathcal$$
 
 ### Independence
 ### Random variables
