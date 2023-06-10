@@ -20,6 +20,8 @@ I assume you have some basic ideas of set theory such as what is intersection an
 You probably don't need to know this. But in case you need it, here is the definition of $$\sigma$$-algebra. 
 
 A collection of subsets $$\mathcal{S}$$ is called **sigma algebra**, denoted by $$\mathcal{B}$$, if it satisfies the follwoing three conditions:
+
+
 - $$\emptyset \in \mathcal{B}$$ (the empty set is an element of $$\mathcal{B}$$)
 - If $$\mathcal{A} \in \mathcal{B}$$, then $$\mathcal{A}^{c} \in \mathcal{B}$$
 - If $$\mathcal{A}_{1}, \mathcal{A}_{2},... \in \mathcal{B}$$, then $$\cup_{i=1}^{\infty} \mathcal{A}_{i} \in \mathcal{B}$$ 
