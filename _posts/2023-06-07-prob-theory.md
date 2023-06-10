@@ -27,8 +27,9 @@ A collection of subsets $$\mathcal{S}$$ is called **sigma algebra**, denoted by 
 ### Rules of probability
 1. The definition of probability function:
 Given a sample space $$\mathcal{S}$$ and an associated sigma algebra $$\mathcal{B}$$, a probability function satisfies:
-    1. $$\mathcal{P}(\mathcal{A})  \geq 0$$ for all $$\mathcal{A} \in mathcal{B}$$
-    2. $$\mathcal$$
+    1. $$\mathcal{P}(\mathcal{A})  \geq 0$$ for all $$\mathcal{A} \in \mathcal{B}$$
+    2. $$\mathcal{P}(\mathcal{S}) = 1$$
+    3. 
 
 ### Independence
 ### Random variables
