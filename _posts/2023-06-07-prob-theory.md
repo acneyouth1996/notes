@@ -14,9 +14,9 @@ render_with_liquid: true
 This is a brief introduction/cheatsheet to probability theory. Most of the content is from the book "Statistical Inference" [^fn1]
 
 
-## Basics
+## 1.Basics
 I assume you have some basic ideas of set theory such as what is intersection and what is union.
-### $$\sigma$$-algebra and measure theory
+### 1.1 $$\sigma$$-algebra and measure theory
 You probably don't need to know this. But in case you need it, here is the definition of $$\sigma$$-algebra. 
 
 A collection of subsets $$\mathcal{S}$$ is called **sigma algebra**, denoted by $$\mathcal{B}$$, if it satisfies the follwoing three conditions:
@@ -26,7 +26,7 @@ A collection of subsets $$\mathcal{S}$$ is called **sigma algebra**, denoted by 
 2. If $$\mathcal{A} \in \mathcal{B}$$, then $$\mathcal{A}^{c} \in \mathcal{B}$$
 3. If $$\mathcal{A}_{1}, \mathcal{A}_{2},... \in \mathcal{B}$$, then $$\cup_{i=1}^{\infty} \mathcal{A}_{i} \in \mathcal{B}$$ 
 
-### Rules of probability
+### 1.2 Rules of probability
 
 The definition of probability function:
 
