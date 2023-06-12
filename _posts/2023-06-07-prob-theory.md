@@ -36,7 +36,18 @@ Given a sample space $$\mathcal{S}$$ and an associated sigma algebra $$\mathcal{
 
 1.   $$\mathcal{P}(\mathcal{A})  \geq 0$$ for all $$\mathcal{A} \in \mathcal{B}$$.
 2.   $$\mathcal{P}(\mathcal{S}) = 1$$.
-3.   blabla
+3.   If $$ \mathcal{A}_{1}, \mathcal{A}_{2}, ... \in \mathcal{B}$$ are pairwise disjoint, then $$ \mathcal{P}(\cup_{i=1}^{\infty} \mathcal{A}_{i}) = \sum_{i=1}^{\infty} \mathcal{P}(A_{i})$$.
+
+Some calculus of probability:
+
+If $$\mathcal{P}$$ is a probabilty function and $$\mathcal{A}$$ is any set in $$\mathcal{B}$$, then
+
+1.  $$ \mathcal{P}(\emptyset) = 0$$.
+2.  $$ \mathcal{P}(A) \leq 1$$.
+3.  $$ \mathcal{P}(\mathcal{A^{c}}) = 1 - \mathcal{P}(\mathcal{A})$$.
+4.  $$ \mathcal{P} (\mathcal{A} \cup \mathcal{B}) = \mathcal{P}(\mathcal{A}) + \mathcal{P}(\mathcal{B}) - \mathcal{P} (\mathcal{A} \cap \mathcal{B})$$.
+5.  $$ \mathcal{P} (\mathcal{B} \cap \mathcal{A}^{c}) = \mathcal{P}(\mathcal{B}) - \mathcal{P} (\mathcal{A} \cap \mathcal{B}) $$. 
+6.  If $$\mathcal{A} \subseteq \mathcal{B}$$, then $$\mathcal{P}(\mathcal{A}) \leq \mathcal{P}(\mathcal{B})$$.
 
 
 ordered list test
