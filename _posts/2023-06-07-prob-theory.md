@@ -68,7 +68,7 @@ If $$\mathcal{P}$$ is a probabilty function and $$\mathcal{A}$$ is any set in $$
 
 ## 3. Common family of distribution
 
-## 4. Joint, marginal, and conditional distributions
+## 4. Multivariate distributions
 
 ## 5. Convergence in probability
 You probably don't need to know too much details about this.
