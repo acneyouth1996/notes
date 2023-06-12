@@ -50,21 +50,6 @@ If $$\mathcal{P}$$ is a probabilty function and $$\mathcal{A}$$ is any set in $$
 6.  If $$\mathcal{A} \subseteq \mathcal{B}$$, then $$\mathcal{P}(\mathcal{A}) \leq \mathcal{P}(\mathcal{B})$$.
 
 
-ordered list test
-
-1. 1st item
-2. 2nd item
-    1. 1st sub-item of 2nd item
-    2. 2nd sub-item of 2nd item
-3. 3rd item
-    1. 1st sub-item of 3rd item
-    2. 2nd sub-item of 3rd item
-
-blablabla 
-
-
-
-
 ### 1.3 Independence
 
 
@@ -73,6 +58,11 @@ blablabla
 ### 1.5 Distribution functions
 
 ### 1.6 Densities
+
+### 1.7 Some inequalities
+
+1. Bonferroni inequality
+2. Jensen's inequality
 
 ## 2. Transformation and Expectation
 
