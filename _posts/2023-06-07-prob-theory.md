@@ -16,6 +16,7 @@ This is a brief introduction/cheatsheet to probability theory. Most of the conte
 
 ## 1.Basics
 I assume you have some basic ideas of set theory such as what is intersection and what is union.
+
 ### 1.1 $$\sigma$$-algebra and measure theory
 You probably don't need to know this. But in case you need it, here is the definition of $$\sigma$$-algebra. 
 
@@ -53,14 +54,22 @@ blablabla
 
 
 
-### Independence
-### Random variables
-### Distribution functions
-### Densities
-## Transformation and Expectation
-## Common family of distribution
-## Joint, marginal, and conditional distributions
-## Convergence in probability
+### 1.3 Independence
+
+
+### 1.4 Random variables
+
+### 1.5 Distribution functions
+
+### 1.6 Densities
+
+## 2. Transformation and Expectation
+
+## 3. Common family of distribution
+
+## 4. Joint, marginal, and conditional distributions
+
+## 5. Convergence in probability
 You probably don't need to know too much details about this.
 
 [^fn1]: Casella, G., & Berger, R. L. (2021). Statistical inference. Cengage Learning.
