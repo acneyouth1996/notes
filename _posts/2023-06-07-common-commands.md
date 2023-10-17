@@ -24,7 +24,7 @@ Here are some commanly used commands for unix-based system terminals.
 3. **ls** --- Listing files in current directory
     1. **ls -a** --- listing all files including hidden files, many files are by default hidden such as .gitignore file in a git repo.
 
-4. **mv filename1 filename2 --- moves a file** -- moves a file, rename it or move it to a different directory.
+4. **mv filename1 filename2** -- moves a file, rename it or move it to a different directory.
 5. **cp filename1 filename2** --- copies a file.
 6. **mkdir dirname** --- creates a new directory in current directory
 7. **rm filename** --- delete a file.
