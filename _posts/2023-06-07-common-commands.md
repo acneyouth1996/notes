@@ -29,7 +29,8 @@ Here are some commanly used commands for unix-based system terminals.
 
 6. **mkdir dirname** --- creates a new directory in current directory
 
-7. **rm**
+7. **rm filename** --- delete a file.
+    1. **rm -r dirname** --- recursively delete everything in a directory
 
 
 ### Connect to remote computer and files uploading
