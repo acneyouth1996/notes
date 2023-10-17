@@ -19,10 +19,11 @@ Here are some commanly used commands for unix-based system terminals.
 1. **cd dirname** --- go to a specific directory.
     1. **.** is current directory
     2. **..** is the parent directory, for example, **cd ..** means go to the parent directory of where I am currently at.
+
 2. **pwd** --- tells you where you currently are, this returns the absolute path.
 
-3. **ls** --- Listing files in a given directory
-    1. ls -a --- listing all files including hidden files, many files are by default hidden such as .gitignore file in a git repo.
+3. **ls** --- Listing files in current directory
+    1. **ls -a** --- listing all files including hidden files, many files are by default hidden such as .gitignore file in a git repo.
 
 4. **mv**
 
