@@ -53,6 +53,7 @@ Here are some commanly used commands for unix-based system terminals.
 4. **git clone repo-link** --- clone remote repo to local 
 5. **git checkout -b branch-name** --- checkout to a specific branch, if no such branch exists, this will create a new branch.
 6. **git fetch** --- fetch updates from remote repo
+7. **git rebase origin/main** --- rebase against main branch. see [here](https://docs.gitlab.com/ee/topics/git/git_rebase.html) for more details
 
 
 
