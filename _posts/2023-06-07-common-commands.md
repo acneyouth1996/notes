@@ -32,18 +32,21 @@ Here are some commanly used commands for unix-based system terminals.
 
 
 ### Connect to remote computer and files uploading
-1. **ssh** ---
-2. **scp** --- 
-3. **rsync** ---
+1. **ssh username@remote-computer-ip-address** --- connect to a remote computer
+2. **scp filename username@remote-computer-ip-address:/target/directory** --- upload a file from local computer to remote computer
+3. **rsync** --- recommended way of sync two directories, the two directories can be local or remote. see [here](https://linux.die.net/man/1/rsync) for more details. This can use to delete files in a local directory (create an empty dir and then sync the target dir to it) or upload files from local dir to remote dir. Empirically this command is very fast.
 
 
 ### Other commands
 
-1. **top**
-2. **kill**
-3. **whoami**
-4. **du**
-5. **quota**
+1. **top** --- display all active process
+2. **kill pid** --- kill a specific process say it you want to terminate a program because it took forever to run.
+3. **whoami** --- show current username
+4. **du filename** --- shows the disk usage of the files
+5. **quota -v** --- show what your disk quota is (i.e. how much space you have to store files)
+6. **grep string filename(s)** --- looks for the string in the files.
+7. **df** --- check drive space
+    1. **df -h** return size in human readable format, i.e. in GB or MB etc.
 
 ### Git related
 
