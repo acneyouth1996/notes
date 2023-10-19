@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Commonly used Unix commands
-date: 07-06-2023 14:35:26 :z
+date: 17-10-2023 14:35:26 :z
 tags: [tools]
 description:
 summary:
