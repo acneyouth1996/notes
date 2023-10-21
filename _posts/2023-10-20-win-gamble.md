@@ -17,18 +17,14 @@ Some posts that I found interesting and I put them in this page, I will keep upd
 
 The short answer is you **can't**. 
 
-Here is a nice [post](https://sites.pitt.edu/~jdnorton/teaching/paradox/chapters/probability_from_independence/probability_from_independence.html) that explains why.[^fn1]
+Here is a nice [post](https://sites.pitt.edu/~jdnorton/teaching/paradox/chapters/probability_from_independence/probability_from_independence.html) that explains why.
 
 ### Intro to GWAS
 
-If you are interested in Genomics, my friend Edgar has an excellent post [here](https://emarro.github.io/posts/ml-in-bio/) [^fn2].
+If you are interested in Genomics, my friend Edgar has an excellent post [here](https://emarro.github.io/posts/ml-in-bio/)
 
 
 
-
-[^fn1]: Paradoxes from Probability. (n.d.). https://sites.pitt.edu/~jdnorton/teaching/paradox/chapters/probability_from_independence/probability_from_independence.html
-
-[^fn2]: A Brief Introduction to Genome Analysis (Genomics) https://emarro.github.io/posts/ml-in-bio/ 
 
 
 
