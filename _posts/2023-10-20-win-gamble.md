@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some interesting posts that I find pretty interesting
+title: Some posts that I find pretty interesting
 date: 20-10-2023 20:56:41 :z
 tags: [stats]
 description:
@@ -11,7 +11,7 @@ mathjax: false
 render_with_liquid: true
 ---
 
-Some interesting posts that I found interesting and I put them in this page, I will keep update this list frequently.
+Some posts that I found interesting and I put them in this page, I will keep update this list frequently.
 
 1. Can we win money in gambling? 
 
