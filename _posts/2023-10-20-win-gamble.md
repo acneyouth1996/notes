@@ -13,13 +13,13 @@ render_with_liquid: true
 
 Some posts that I found interesting and I put them in this page, I will keep update this list frequently.
 
-## Can we win money in gambling? 
+### Can we win money in gambling? 
 
 The short answer is you **can't**. 
 
 Here is a nice [post](https://sites.pitt.edu/~jdnorton/teaching/paradox/chapters/probability_from_independence/probability_from_independence.html) that explains why.[^fn1]
 
-## Intro to GWAS
+### Intro to GWAS
 
 If you are interested in Genomics, my friend Edgar has an excellent post [here](https://emarro.github.io/posts/ml-in-bio/) [^fn2].
 
