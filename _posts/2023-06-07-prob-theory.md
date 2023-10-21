@@ -11,7 +11,7 @@ mathjax: true
 render_with_liquid: true
 ---
 
-This is a brief introduction/cheatsheet to probability theory. Most of the content is from the book "Statistical Inference" [^fn1]
+This is a brief introduction/cheatsheet to probability theory. Most of the content is from the book "Statistical Inference" [^fn1] I am still working on this post...
 
 
 ## 1.Basics
