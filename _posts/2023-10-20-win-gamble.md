@@ -23,6 +23,9 @@ Here is a nice [post](https://sites.pitt.edu/~jdnorton/teaching/paradox/chapters
 
 If you are interested in Genomics, my friend Edgar has an excellent post [here](https://emarro.github.io/posts/ml-in-bio/) [^fn2].
 
+
+
+
 [^fn1]: Paradoxes from Probability. (n.d.). https://sites.pitt.edu/~jdnorton/teaching/paradox/chapters/probability_from_independence/probability_from_independence.html
 
 [^fn2]: A Brief Introduction to Genome Analysis (Genomics) https://emarro.github.io/posts/ml-in-bio/ 
