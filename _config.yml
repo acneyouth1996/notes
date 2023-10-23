@@ -16,7 +16,7 @@ collection_order    :
   [
     "computer science",
     "stats",
-    "other",
+    "posts",
   ]
 collections:
   stats:   
