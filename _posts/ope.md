@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Practical Guide To Off Policy Evaluation
-date: 07-06-2023 16:27:43
+title: A Practical Guide To Off Policy Evaluation (still writing it...)
+date: 06-16-2024 16:27:43
 tags: [stats]
 description:
 summary:
