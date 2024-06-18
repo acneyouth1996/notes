@@ -3,7 +3,6 @@ title               : Notes
 owner               : "Yong Huang"
 url                : "https://yonglhuang.com"
 baseurl            : "/notes"
-asset
 permalink           : /:title/
 description         : "A hacker-style note-keeping website template."
 markdown            : kramdown
