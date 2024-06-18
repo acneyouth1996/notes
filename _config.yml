@@ -1,13 +1,19 @@
 site: Notes
 url: "https://yonglhuang.com"
 baseurl: "/notes"
-title: Sidey
+title: Notes
 description: Simple and minimalistic jekyll blogging theme.
 twitter:
   username: #yourusername
   card: summary
   creator: #yourusername
 permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 
 highlighter: none
